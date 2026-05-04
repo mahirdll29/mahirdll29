@@ -60,7 +60,11 @@
 
 ### 🔶 LeetCode
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mahirdll?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/mahirdll?theme=dark&font=baloo" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </p>
 
 ### 🔷 Codeforces
@@ -70,7 +74,9 @@
 
 ### 🧠 Codolio
 <p align="center">
-  <img src="https://codolio.com/profile/mahirdll/card" />
+  <a href="https://codolio.com/profile/mahirdll">
+    <img src="https://img.shields.io/badge/View%20Codolio%20Profile-00C853?style=for-the-badge" />
+  </a>
 </p>
 
 ---

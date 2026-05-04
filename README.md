@@ -59,8 +59,13 @@
 ## 📊 Problem Solving Stats
 
 ### 🔶 LeetCode
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mahirdll?theme=dark&font=baloo" />
+  <img src="https://leetcard.jacoblin.cool/mahirdll?theme=dark&font=baloo&ext=heatmap&t=1" />
+</p>
+
+<p align="center">
+  🏆 LeetCode Knight (Rating: 1857)
 </p>
 
 <p align="center">
@@ -72,18 +77,8 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahirdll&theme=github_dark" />
 </p>
 
-### 🧠 Codolio
-<p align="center">
-  <a href="https://codolio.com/profile/mahirdll">
-    <img src="https://img.shields.io/badge/View%20Codolio%20Profile-00C853?style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
-<p align="center">
-  <b>I solve problems.</b>
-</p>
 
 <p align="center">
   <i>“All power is within you. You can do anything and everything.”</i><br>

@@ -72,6 +72,10 @@
   <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </p>
 
+<p align="center">
+  <img src="./leetcode-knight-img.png" width="120" />
+</p>
+
 ### 🔷 Codeforces
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahirdll&theme=github_dark" />

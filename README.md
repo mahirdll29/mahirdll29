@@ -64,9 +64,6 @@
   <img src="https://leetcard.jacoblin.cool/mahirdll?theme=dark&font=baloo&ext=heatmap&t=1" />
 </p>
 
-<p align="center">
-  🏆 LeetCode Knight (Rating: 1857)
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />

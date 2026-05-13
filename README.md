@@ -82,6 +82,6 @@
 
 
 <p align="center">
-  <i>“All power is within you. You can do anything and everything.”</i><br>
+  <i>“All the power is within you. You can do anything and everything.”</i><br>
   — Swami Vivekananda
 </p>
